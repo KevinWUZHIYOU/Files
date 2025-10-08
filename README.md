@@ -1,4 +1,4 @@
-# Files
+# Alanine Dipeptide in Gromacs
 
 gmx pdb2gmx -f ala2.pdb
 
